@@ -21,7 +21,7 @@ namespace ASLTranslator
             int nRightRect,    // x-coordinate of lower-right corner
             int nBottomRect,   // y-coordinate of lower-right corner
             int nWidthEllipse, // height of ellipse
-            int nHeightEllipse // width of ellipse
+            int nHeightEllipse
         );
 
         List<PictureBox> disposePb = new List<PictureBox>();
